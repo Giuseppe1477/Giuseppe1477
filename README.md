@@ -7,9 +7,14 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/giuseppe-celentano/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  &nbsp;&nbsp;
+  
+  ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+  &nbsp;&nbsp;
+  
+  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+  &nbsp;&nbsp;
   
 </p>
 
