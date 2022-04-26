@@ -11,7 +11,7 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   </a>&nbsp;&nbsp;
   
   <a href="https://gcelentano.com">
-    <img src="https://img.shields.io/badge/My Website-critical?style=for-the-badge&logo=appveyor" />        
+    <img src="https://img.shields.io/badge/My Website-critical?style=for-the-badge&logo=GClogo.png" />        
   </a>&nbsp;&nbsp;
   
 </p>
