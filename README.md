@@ -2,7 +2,7 @@
 My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Technology. Please take a look at my page to see the different projects I have completed through the years. Linked below is my website where you can find my contact information, my current resume, and more information about myself and my projects.
 
 <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&layout=compact&theme=algolia" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
 
 <a href="https://github.com/Giuseppe1477/Giuseppe1477">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giuseppe1477&theme=algolia&show_icons=true" alt="Giuseppe1477's GitHub Statistics" />
@@ -22,4 +22,5 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
   - 👋
+&layout=compact
 --> 
