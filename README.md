@@ -1,6 +1,9 @@
 # <img src="AmericanFlag.gif" width="50px"> Giuseppe's Github Page <img src="AmericanFlag.gif" width="50px">
 My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Technology. Please take a look at my page to see the different projects I have completed through the years. Linked below is my website where you can find my contact information, my current resume, and more information about myself and my projects.
 
+# :hammer_and_wrench: Tools & Technology :hammer_and_wrench:
+
+
 <a href="https://github.com/Giuseppe1477/Giuseppe1477">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
 
