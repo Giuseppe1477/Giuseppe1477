@@ -1,5 +1,4 @@
-### :us: Welcome To My Profile <img src="https://acegif.com/wp-content/gifs/flag-america-usa-48.gif" width="30px">
-# Hello, folks! 
+## <img src="https://i.gifer.com/XLIM.gif" width="50px"> Welcome To My Profile <img src="https://i.gifer.com/XLIM.gif" width="50px">
 
 <!--
 **Giuseppe1477/Giuseppe1477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
