@@ -3,19 +3,21 @@
 My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Technology. Please take a look at my page to see the different projects I have completed through the years. Linked below is my website where you can find my contact information, my current resume, and more information about myself and my projects.
 
 <h2 align='center'> :hammer_and_wrench: Tools & Technology :hammer_and_wrench:</h2>
+
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/giuseppe-celentano/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  
   <a href="https://gcelentano.com">
-    <img src="https://img.shields.io/badge/<My Website>-<critical>?style=for-the-badge&logo=appveyor" />        
+    <img src="https://img.shields.io/badge/My Website-critical?style=for-the-badge&logo=appveyor" />        
   </a>&nbsp;&nbsp;
   
-  <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
-  
 </p>
+
+<a href="https://github.com/Giuseppe1477/Giuseppe1477">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
 
 
 <!--
