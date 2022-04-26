@@ -24,7 +24,7 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   </a>&nbsp;&nbsp;
   
   <a href="https://gcelentano.com">
-    <img src="https://img.shields.io/badge/My Website-critical?style=for-the-badge&logo=" />        
+    <img src="https://img.shields.io/badge/My Website-critical?style=for-the-badge&logo=iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAYAAADAQbwGAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAN8SURBVDhPtVRNbFRVFL4%2F782bH2tbmhQtEGkRbYpKkQyRYIjYhATiRt1hSFhgF5S4URYmdOOC6AYWRKMhJCqwUVPRKCsGAwiIA4kSKzYFWigtU%2BnMG9rpzH19993L92ZeXztDCjGRLzm5d879znfOPfe8If83aLCW8dz67uWu9NZrrZcSSnOWyVPRqHXrz1MHVUB5JELBVRt7zGJJHINQQUrvbRw4EI4xRk%2BYhrH32sVDgwH1oWDBSpQmFAIWhCY5ozej0cgHlNJ78Hei6o87NnSvC6gPxbwKd0emCtO%2FYbtME%2F0kozSdoOTzntLw1eWysFiYVr5hRrTwusT3r10%2B7VWiHkRYIaQpY2wkHrPeQ2W2JiS9P39l9PnCxA9RIX5smLqX0o5z1Mva3%2FzSnnwmiHoAoaC%2FUVovKQqnV2sSRe8um55chys04%2BguzMYexeu3VEmcT7Wu3pda%2BfKaM690zRUFzK8Q0CaWbMTgnxmUTcERgXnMinzEE%2FFNxODf%2BSyghSj1IZlxz8msvTnwlVGl7gPVrZRKJWEd1OAXcXWqnJlPvJJox7GfZD6iCKgL9mWEgobBCed8GOsJpfSrntI9PY2dWWlG3tGc98L%2BwkiNIMHfoNcKhwgFKzfWJkZHUEpsztnZaamPd9e%2FtPPdprXWkZYXJyGYoqbxPjIfArs87EhQhTlBKHpKLZWe2olrP4FZHEIWhn0XkkxsH73yOnp2nLiyT3veDj%2BkElmtWSWIsfk3YvL9%2BKlmXLkHrgz8V%2BOMpKlSW%2BF%2FGhaDf5EfAgtVZzH3KJVPBQTqQuQaqHfR0zRnLE2JdsEwKsRqLHhlVyrJidNr3zp7Mzv405GpkTO7lTt9ErPZIChvRqY%2FQJuNr9UJwYOVjA%2F%2Frpc181F74vaoUyokRNHeNjnev1Hkb3zZtHjF9TcMcVq7LvpKL6A3g3jAtQijhLNvv85l%2FJcvIxT0MZ7JECHEtOd5A42NjX1YJx1R3Gdn%2BnldPD7UTs0XtNLPQmwDeud%2FQZRC8Kt5gnM9rEEul%2FMcx%2BmLxWJblFKbPh3654sD%2BTv96PNTEOwAJYitfpYFBWdRLBZv1NfXb8UfRvrnbObwm3cGfs0zsktTegmNdGu7WfvqC6KtrY2OjY2tkVJux3hZi6zo%2BT1NS0inlTjXNXBpKKD9dySTSYr%2BGrBYa2trLHA%2FLhByHzt0fW4n6IADAAAAAElFTkSuQmCC" />        
   </a>&nbsp;&nbsp;
   
 </p>
