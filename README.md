@@ -28,7 +28,7 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   </a>&nbsp;&nbsp;
   
   <a href="mailto:joe@gcelentano.com?Subject=Add%20Subject" target="_top">
-    <img src="https://img.shields.io/badge/My Email-blue??&style=for-the-badge&logoColor=violet&logo=data:image/svg;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TWludXRlbWFpbGVyPC90aXRsZT48cGF0aCBkPSJNMTcuMTg3IDE5LjE4MUwyNCA0Ljc1NSAwIDEyLjM4Nmw5LjE5NiAxLjk2My4wNDMgNC44OTYgMi43NTktMi42MTctMi4xNDctMi4wNzYgNy4zMzYgNC42M3oiLz48L3N2Zz4=" />
+    <img src="https://img.shields.io/badge/My Email-blue??&style=for-the-badge&logoColor=violet&logo=gmail" />
   </a>&nbsp;&nbsp;
   
 </p>
