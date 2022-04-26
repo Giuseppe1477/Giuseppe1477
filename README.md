@@ -5,7 +5,8 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact&theme=algolia" /></a>
 
 <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/? username=Giuseppe1477&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Giuseppe's GitHub Stats" /></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giuseppe1477&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Giuseppe1477's GitHub Statistics" />
+</a>
 
 <!--
   **Giuseppe1477/Giuseppe1477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
