@@ -28,7 +28,7 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   </a>&nbsp;&nbsp;
   
   <a href="mailto:joe@gcelentano.com?Subject=Add%20Subject" target="_top">
-    <img src="https://img.shields.io/badge/My Email-red??&style=for-the-badge&logoColor=violet&logo=gmail" />
+    <img src="https://img.shields.io/badge/My Email-blue??&style=for-the-badge&logoColor=red&logo=gmail" />
   </a>&nbsp;&nbsp;
   
 </p>
