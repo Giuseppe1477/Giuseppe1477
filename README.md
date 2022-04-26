@@ -13,7 +13,7 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
   &nbsp;&nbsp;
   
-  ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+  ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
   &nbsp;&nbsp;
   
 </p>
