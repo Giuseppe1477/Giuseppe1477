@@ -1,4 +1,12 @@
-## <img src="AmericanFlag.gif" width="50px"> Welcome To My Profile <img src="AmericanFlag.gif" width="50px">
+# <img src="AmericanFlag.gif" width="50px"> Welcome To My Profile <img src="AmericanFlag.gif" width="50px">
+### My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Technology. Please take a look at my page to see the different projects I have completed through the years. Linked below is my website where you can find my contact information, my current resume, and more information about myself and my projects.
+
+<a href="https://github.com/Giuseppe1477/Giuseppe1477">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/Giuseppe1477/Giuseppe1477">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Giuseppe1477&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Giuseppe's GitHub Stats" />
+</a>
 
 <!--
 **Giuseppe1477/Giuseppe1477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
