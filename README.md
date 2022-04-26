@@ -19,7 +19,8 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
 </p>
   
 <h2 align='center'> :books: Github Statistics :books:</h2>
-[![Giuseppe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giuseppe1477)](https://github.com/Giuseppe1477/github-readme-stats)
+<a href="https://github.com/Giuseppe1477/Giuseppe1477">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
 <a href="https://github.com/Giuseppe1477/Giuseppe1477">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
 
