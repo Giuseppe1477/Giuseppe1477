@@ -77,6 +77,7 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   </p>
 
 <br>
+<br>
  
 <h2 align='center'> :postbox: Contact Information :postbox:</h2>
 <p align="center"> Here are some links to some of my most used contact information. Visit the Contact Me page on my website for more</p>
