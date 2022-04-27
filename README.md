@@ -21,9 +21,7 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   <a href="https://www.kali.org/">
     <img src="https://img.shields.io/badge/Kali Linux-informational?style=for-the-badge&logo=kalilinux&logoColor=white&color=black" />
   </a>&nbsp;&nbsp;
-  
-  
-  
+    
   <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html">
     <img src="https://img.shields.io/badge/Java-informational?&style=for-the-badge&logo=java&logoColor=white&color=orange" />
   </a>&nbsp;&nbsp;
@@ -36,20 +34,24 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
     <img src="https://img.shields.io/badge/HTML 5-informational?style=for-the-badge&logo=html5&logoColor=orange&color=black" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  </p>
+  
+  <p align='center'>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://img.shields.io/badge/CSS 3-informational?style=for-the-badge&logo=css3&logoColor=blue&color=inactive" />
   </a>&nbsp;&nbsp;
-
+  
   </p>
   
 <h2 align='center'> :books: Github Statistics :books:</h2>
   <p align='center'>
     <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&theme=algolia&show_icons=true&hide=prs,issues" /></a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&layout=compact&theme=algolia" /></a>
     &nbsp;&nbsp;
     &nbsp;&nbsp;
     <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&layout=compact&theme=algolia" /></a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&theme=algolia&show_icons=true&hide=prs,issues" /></a>
+        
   </p>
 
  
@@ -65,7 +67,7 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   </a>&nbsp;&nbsp;
   
   <a href="mailto:joe@gcelentano.com?Subject=Add%20Subject" target="_top">
-    <img src="https://img.shields.io/badge/My Email-blue??&style=for-the-badge&logoColor=red&logo=gmail" />
+    <img src="https://img.shields.io/badge/My Email-blue??&style=for-the-badge&logoColor=white&logo=gmail" />
   </a>&nbsp;&nbsp;
   
 </p>
