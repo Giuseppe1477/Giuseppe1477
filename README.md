@@ -4,27 +4,30 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
 
 
 <h2 align='center'> :hammer_and_wrench: Tools & Technology :hammer_and_wrench:</h2>
+  <p align='center'>
 
-<p align='center'>
+    <a href="https://www.microsoft.com/en-us/windows">
+      <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+    </a>&nbsp;&nbsp;
   
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  &nbsp;&nbsp;
-  
-  ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
-  &nbsp;&nbsp;
-  
-  ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-  &nbsp;&nbsp;
-  
-</p>
+    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+    &nbsp;&nbsp;
+
+    ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
+    &nbsp;&nbsp;
+
+    ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
+    &nbsp;&nbsp;
+
+  </p>
   
 <h2 align='center'> :books: Github Statistics :books:</h2>
-<p>
-<a href="https://github.com/Giuseppe1477/Giuseppe1477">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
-<a href="https://github.com/Giuseppe1477/Giuseppe1477">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
-</p>
+  <p align='center'>
+    <a href="https://github.com/Giuseppe1477/Giuseppe1477">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
+    <a href="https://github.com/Giuseppe1477/Giuseppe1477">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
+  </p>
 
  
 <h2 align='center'> :postbox: Contact Information :postbox:</h2>
