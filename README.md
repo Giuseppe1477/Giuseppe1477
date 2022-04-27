@@ -1,7 +1,7 @@
 <h1 align='center'> <img src="AmericanFlag.gif" width="50px"> Giuseppe's Github Page <img src="AmericanFlag.gif" width="50px"></h1>
 
 My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Technology. Please take a look at my page to see the different projects I have completed through the years. Linked below is my website where you can find my contact information, my current resume, and more information about myself and my projects.
-
+<br>
 
 <h2 align='center'> :hammer_and_wrench: Tools & Technology :hammer_and_wrench:</h2>
   <p align='center'>
@@ -34,26 +34,52 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
     <img src="https://img.shields.io/badge/HTML 5-informational?style=for-the-badge&logo=html5&logoColor=orange&color=black" />
   </a>&nbsp;&nbsp;
 
-  </p>
-  
   <p align='center'>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS 3-informational?style=for-the-badge&logo=css3&logoColor=blue&color=inactive" />
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://img.shields.io/badge/CSS 3-informational?style=for-the-badge&logo=css3&logoColor=blue&color=inactive" />
   </a>&nbsp;&nbsp;
-  
+
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+  <img src="https://img.shields.io/badge/C Sharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=blueviolet" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://colab.research.google.com/?utm_source=scs-index">
+  <img src="https://img.shields.io/badge/Colab-informational?style=for-the-badge&logo=googlecolab&logoColor=white&color=success" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://code.visualstudio.com/">
+  <img src="https://img.shields.io/badge/VS Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=008B8B" />
+  </a>&nbsp;&nbsp;
+    
+  <a href="https://www.jetbrains.com/pycharm/">
+  <img src="https://img.shields.io/badge/VS Code-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=FF7F50" />
+  </a>&nbsp;&nbsp;
+    
+  <a href="https://www.eclipse.org/">
+  <img src="https://img.shields.io/badge/Eclipse-informational?style=for-the-badge&logo=eclipseide&logoColor=white&color=483D8B" />
+  </a>&nbsp;&nbsp;
+    
+  <a href="https://devdocs.io/c/">
+  <img src="https://img.shields.io/badge/C Lang-informational?style=for-the-badge&logo=c&logoColor=white&color=191970" />
+  </a>&nbsp;&nbsp;
+     
   </p>
-  
+  <br>
 <h2 align='center'> :books: Github Statistics :books:</h2>
+<p align="center"> Below You will find statistics about my Github profile like my most used languages and my commit count</p>
   <p align='center'>
     <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&layout=compact&theme=algolia" /></a>
     <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&line_height=27&theme=algolia&show_icons=true&hide=prs,issues" /></a>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&line_height=27&theme=algolia&show_icons=true&hide=prs,issues" /></a>
         
   </p>
 
+<br>
  
 <h2 align='center'> :postbox: Contact Information :postbox:</h2>
+<p align="center"> Here are some links to some of my most used contact information. Visit the Contact Me page on my website for more</p>
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/giuseppe-celentano/">
