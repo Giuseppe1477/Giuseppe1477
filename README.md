@@ -69,13 +69,17 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
 <h2 align='center'> :books: Github Statistics :books:</h2>
 <p align="center"> Below You will find statistics about my Github profile like my most used languages and my commit count</p>
   <p align='center'>
-    <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&layout=compact&theme=algolia" /></a>
-    <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&line_height=27&theme=algolia&show_icons=true&hide=prs,issues" /></a>
-        
+  <a href="https://github.com/Giuseppe1477/Giuseppe1477">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&layout=compact&theme=algolia" /></a>
+  <a href="https://github.com/Giuseppe1477/Giuseppe1477">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&line_height=27&theme=algolia&show_icons=true&hide=prs,issues" /></a>
   </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
  
 <h2 align='center'> :postbox: Contact Information :postbox:</h2>
