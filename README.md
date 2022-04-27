@@ -6,27 +6,50 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
 <h2 align='center'> :hammer_and_wrench: Tools & Technology :hammer_and_wrench:</h2>
   <p align='center'>
 
-    <a href="https://www.microsoft.com/en-us/windows">
-      <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-    </a>&nbsp;&nbsp;
-  
+  <a href="https://www.microsoft.com/en-us/windows">
     <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-    &nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
 
-    ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
-    &nbsp;&nbsp;
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=yellow&logoWidth=15" />
+  </a>&nbsp;&nbsp;
 
-    ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-    &nbsp;&nbsp;
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=yellow&color=blue&logoWidth=25" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.kali.org/">
+    <img src="https://img.shields.io/badge/Kali Linux-informational?style=for-the-badge&logo=kalilinux&logoColor=white&color=black" />
+  </a>&nbsp;&nbsp;
+  
+  
+  
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html">
+    <img src="https://img.shields.io/badge/Java-informational?&style=for-the-badge&logo=java&logoColor=white&color=orange" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.cplusplus.com/">
+    <img src="https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=success" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <img src="https://img.shields.io/badge/HTML 5-informational?style=for-the-badge&logo=html5&logoColor=orange&color=black" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS 3-informational?style=for-the-badge&logo=css3&logoColor=blue&color=inactive" />
+  </a>&nbsp;&nbsp;
 
   </p>
   
 <h2 align='center'> :books: Github Statistics :books:</h2>
   <p align='center'>
     <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&theme=algolia&show_icons=true&hide=prs,issues" /></a>
+    &nbsp;&nbsp;
+    &nbsp;&nbsp;
     <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&theme=algolia" /></a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&layout=compact&theme=algolia" /></a>
   </p>
 
  
@@ -38,7 +61,7 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   </a>&nbsp;&nbsp;
   
   <a href="https://gcelentano.com">
-    <img src="https://img.shields.io/badge/My Website-red?style=for-the-badge&logoWidth=30&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAlCAYAAAAa0FocAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIASURBVGhD7ZnNUsIwEMdTRkedcfQFvPl8eEOP9anqjB70uYCmZsu2FsjX7iakA/4ubUr247+btBRUmK7qLGy13rg+C4GOyaD5Hlp3rVo2D5tWb/BSFBX6tAGiNJ4npzLgaRBIFE+TYQ9uCmIiZRMNxAjPIXhggcc/CKIpXaNCEV2tPu+pjdpPnCma0xlf0UiimXlMg5P2tDRxlz0peYuPWPtxqZv5yfa0S1QIimgXEBvAoZNeeIqAUlLnEBJ/fHNLREzVS7I4x24P+IqfrePAnLueVficKS4891Zzrbrswue63E/S8UPxpy6GLX7/WoljEofOuEiWuiQHsXCO/TRhbnxg6ocKf6nDCw0zaYnYVLCFm8xF3+1Liy/+OCsFW3j1/nNtDsWXLJciNzdAag8MPjiIl7okeEn+9/glMN1WlyG8/r4aRA/HJF9ZOT6k9sDUhw+b/7PvuKuoi9iqnRuz6Hiu4ru6DfTC59D11Dn4REOsseOpA7vQndKuWNXLx605sG50AyAYwGE8aBekn1zX/c/TsfT/ZYdYNjcwdWcRRr02T/C4UqvmGS95wSh2cE5y0H0YgvhW6616+3pct3qNl5ygdz84Vwx0GY7oNp6d+GSg15HgvrYZUZDeO6TxAVsOwceZL3F8J3fis40FfAA4PMJURZs87nAIjIVCU4utUr8zLFf0LJOghQAAAABJRU5ErkJggg==" />        
+    <img src="https://img.shields.io/badge/My Website-black?style=for-the-badge&logoWidth=30&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAlCAYAAAAa0FocAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAXBSURBVGhDxZrPbxtFFMdn13acOJAKyq+W8ENtkUAVEkKqOEAriopacUBAoQgJASdfUJEgcWyHUitIOSBxglP/hRyi4NpOolRKpB64RAgkfiTQCFpRUBVKSdPY8Xp3zXvj7zr+sd4fiR1/JCvz483MezNv3s7sRrhTVsToNw+KePrRgmasmGbZLBMinv1Q1sWyD3GZYZrmZsnYpF+hUDKWxPDkA2Jk6m7ZRaqscnuqWxKfXnxYlm2HtyYCrAv18xONsZzX9BURn35XnM0NkD6fQIcNOU4yd79Izd8l26Xmg1Yb+vuLSE1UylugiPjcHpGYOWQZ2wh10EOdbSBbB5TgSfiVFLyKYgn6987ERIAVz2vG1UZFNN3UxFD6vkYdMX4e4/+FYgnl/0XPDZRpJc/lDhZ1owjZJrhjEb0Qok7WUOSHBYzkDK/wyNR+GuNPtGuCdRTJyb26aRoocsXecDY6mX4SMrZIoy2ii2z8TVqNWzT7JYi44W44uSf1+TvkbZF6xLKnxPBsv4hl3ikZpo4qR5oNZ6NHMk+hviWQtof2j+2+qMfZcGm0fg2ytlD9DUhvQRNA5a4e2Gi4DFSoawmvKuRb4258a8M9GE372XnyKQBC1JZ6w2lA2i8a6lpC7reGFo5ohrmIJnbYG+7BaEbuazccFnHLcHJxin4rKHfEq+Ey4pMsmjXSbHgqpXIERr0jpPgttHKEovrPaFIHG65KiY+me3qD6gGZbhdjZ7S+odlHkHNn9XAkoIjHkWsLvclLRzZ1cwPZRuRqL2MyXPG84gytOsujaS31K+5jtRmvK87wgQXNqlRWPLUQCAfUJyDXXmjVgwHlCnKt6cBqW/Senz3GgRbZKuTqq6qiUETvED3xuWMGnaqQtUX76vTlUEANIdteSgFyunIeuSpq4dzpH5HuDP1rJRp4HblmyM0NUwwg136+PLlBq3oNOYui8HPUY3ztcQu6rPApi9vz6QqlFVLpiNPR2A4/e1xSc7CpnkPYDWVvHtmW4U7QRciXAoRvw21Q1Q7ub0+oSrArCmASPdPuFdd04zt07Zm2rDj++ocvNKMz+2gi/iBFrvv5iXj2afQi6DkTQHJ3wSR6prriZ3NhftGAYt/IPggKbD+gyDM0eV1c8Xv7lICqbPvZS/o7X007zPYNF0IPJTNvIu2LklHWFUV5EdnuUHEe79gGN7p/o9qVxuMjufr3lRrvdNfVa/m7V55OkHOEzg11B5hwbO4lJHcVVTfLBtLdYcAkFbxNWjtR6Qi5Y7fZEQWN3J+faruLGg6qy0h3h0KPRpN/G7nOkJoPiljuIMWGGyKWfrZaSAN7fS1sH9yi6Yh1CXGDx0KrKn4DnO/glry0ly9HaF7m93EU3BZMKvwPIl0hPPrt0U7Gms3Pj18Oqkr1hJgfP7moirExMzK+tP3vWe2gcLtz7v7xRB+54n7kJJGe4CAeZ4f1QslYraS7wNevFCPjuUHNMN1fG/uBX1d/8cZvfaHAHpQIy7Mqho8pZmRqcl9RNwsy3w3GXs2HP/P2VpZOfUEkW0N3CZFff56Cd91qh+LZo0jWEL0Qqg0CdvAXSEhvMTzb7ymyESKR/QCtmmFlExdfh2hL5Du8Vp+bOYInZg5RALwJ8Sp8qYKUDRXjHaM8RcVnpGwqpYpE5gANsooqR8RI5n3Zzgk2Ppl7DU1aIl8hjZIeI7lB63ElEukjpMs/dk8YZ6Mtoosh2m/Oxg9lH6MBe718IdV0QxPx6RfQuzsejWdELBOV3/HjmfMoasKb0Rby23T2ZZo7Wy+mmV1zu5zIz7jx3Hvo0R/S7bOn3LYeTbztPwZY+DO6FnIjivh3Gjsmw6/zG9JGp2Jj6UCiyYlpB3ICZk6QDht2xknDE5l7aicIOhRFMvscetkB8v9PMsdJgXXZKSMDSeYEG8rl9Gvr+7gm5CRkeBJ4rDtSj0Tubd5ymJx1Ec+egbQDQvwPxoMgFUuilTgAAAAASUVORK5CYII=" />        
   </a>&nbsp;&nbsp;
   
   <a href="mailto:joe@gcelentano.com?Subject=Add%20Subject" target="_top">
