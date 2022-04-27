@@ -72,7 +72,7 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   <a href="https://github.com/Giuseppe1477/Giuseppe1477">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&layout=compact&theme=algolia" /></a>
   <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&line_height=27&theme=algolia&show_icons=true&hide=prs,issues" /></a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&line_height=27&theme=algolia&show_icons=false&hide=prs,issues" /></a>
   </p>
 
 <br>
