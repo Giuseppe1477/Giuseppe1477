@@ -33,7 +33,8 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
     <img src="https://img.shields.io/badge/HTML 5-informational?style=for-the-badge&logo=html5&logoColor=orange&color=black" />
   </a>&nbsp;&nbsp;
-
+  </p>
+  
   <p align='center'>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
@@ -68,10 +69,10 @@ My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Techn
   <br>
 <h2 align='center'> :books: Github Statistics :books:</h2>
 <p align="center"> Below You will find statistics about my Github profile like my most used languages and my commit count</p>
-  <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&layout=compact&card_width=270&theme=algolia" /></a>
-  <a href="https://github.com/Giuseppe1477/Giuseppe1477">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&line_height=27&theme=algolia&show_icons=true&hide=prs,issues" /></a>
+<a href="https://github.com/Giuseppe1477/Giuseppe1477">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giuseppe1477&langs_count=5&layout=compact&card_width=270&theme=algolia" /></a>
+<a href="https://github.com/Giuseppe1477/Giuseppe1477">
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=Giuseppe1477&line_height=27&theme=algolia&show_icons=true&hide=prs,issues" /></a>
   
 <br>
 <br>
