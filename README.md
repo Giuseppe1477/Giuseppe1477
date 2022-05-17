@@ -1,4 +1,4 @@
-<h1 align='center'> <img src="AmericanFlag.gif" width="50px"> Giuseppe's Github Page <img src="AmericanFlag.gif" width="50px"></h1>
+<h1 align='center'> Giuseppe's Github Page </h1>
 
 My name is Giuseppe Celentano and I am a Senior at New Jersey Institute of Technology. Please take a look at my page to see the different projects I have completed through the years. Linked below is my website where you can find my contact information, my current resume, and more information about myself and my projects.
 <br>
