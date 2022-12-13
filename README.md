@@ -63,6 +63,8 @@ My name is Giuseppe Celentano and I am a Test Automation Engineer for the Depart
      
   </p>
   
+  <p align='center'>
+  
   <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html">
     <img src="https://img.shields.io/badge/Java-informational?&style=for-the-badge&logo=java&logoColor=white&color=orange" />
   </a>&nbsp;&nbsp;
@@ -85,12 +87,10 @@ My name is Giuseppe Celentano and I am a Test Automation Engineer for the Depart
   
   <a href="https://www.jetbrains.com/idea/">
     <img src="https://img.shields.io/badge/IntelliJ-informational?&style=for-the-badge&logo=intellijidea&logoColor=white&color=black" />
-  </a>&nbsp;&nbsp;
-  
-  <p align='center'>
-  
+  </a>&nbsp;&nbsp;  
   
   </p
+  
   <br>
 <h2 align='center'> :books: Github Statistics :books:</h2>
 <p align="center"> Below You will find statistics about my Github profile like my most used languages and my commit count</p>
