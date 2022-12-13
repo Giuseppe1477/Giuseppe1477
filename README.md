@@ -21,10 +21,6 @@ My name is Giuseppe Celentano and I am a Test Automation Engineer for the Depart
   <a href="https://www.kali.org/">
     <img src="https://img.shields.io/badge/Kali Linux-informational?style=for-the-badge&logo=kalilinux&logoColor=white&color=black" />
   </a>&nbsp;&nbsp;
-    
-  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html">
-    <img src="https://img.shields.io/badge/Java-informational?&style=for-the-badge&logo=java&logoColor=white&color=orange" />
-  </a>&nbsp;&nbsp;
 
   <a href="https://www.cplusplus.com/">
     <img src="https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=success" />
@@ -66,6 +62,35 @@ My name is Giuseppe Celentano and I am a Test Automation Engineer for the Depart
   </a>&nbsp;&nbsp;
      
   </p>
+  
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html">
+    <img src="https://img.shields.io/badge/Java-informational?&style=for-the-badge&logo=java&logoColor=white&color=orange" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://maven.apache.org/">
+    <img src="https://img.shields.io/badge/Maven-informational?&style=for-the-badge&logo=apachemaven&logoColor=white&color=blueviolet" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.selenium.dev/">
+    <img src="https://img.shields.io/badge/Selenium-informational?&style=for-the-badge&logo=selenium&logoColor=white&color=success" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://testng.org/doc/index.html">
+    <img src="https://img.shields.io/badge/TestNG-informational?&style=for-the-badge&logo=testng&logoColor=white&color=yellow" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.vmware.com/">
+    <img src="https://img.shields.io/badge/VMWare-informational?&style=for-the-badge&logo=vmware&logoColor=white&color=informational" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://img.shields.io/badge/IntelliJ-informational?&style=for-the-badge&logo=intellijidea&logoColor=white&color=black" />
+  </a>&nbsp;&nbsp;
+  
+  <p align='center'>
+  
+  
+  </p
   <br>
 <h2 align='center'> :books: Github Statistics :books:</h2>
 <p align="center"> Below You will find statistics about my Github profile like my most used languages and my commit count</p>
